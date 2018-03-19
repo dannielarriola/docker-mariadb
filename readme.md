@@ -1,4 +1,4 @@
-# Mariadb for moodle
+# Mariadb for moodle 3.3
 
 ## Env vars
 
